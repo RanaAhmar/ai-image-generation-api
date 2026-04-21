@@ -10,6 +10,7 @@ One API to rule them all. Switch between DALL-E 3 and Stable Diffusion with a si
 
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -25,8 +26,11 @@ If you found this tool useful, check out our other high-performance web utilitie
 
 ### 🔗 Stay Connected
 - **Website:** [stackaura.com](https://www.stackaura.com/)
-- **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
+- **LinkedIn:** [Ahmar Hussain](https://www.linkedin.com/in/ahmar204/)
+- **Facebook:** [Ahmar Hussain](https://www.facebook.com/Ahmar204)
+- **GitHub:** [@RanaAhmar](https://github.com/RanaAhmar)
 
 ---
+
 
 
